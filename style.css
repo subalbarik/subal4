@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.testimonial {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #d9e2e2d8;
+    border: 2px solid #9cdf9e;
+    border-radius: 4%; 
+    box-shadow: 0 0 5px;
+}
+
+blockquote {
+    font-style: italic;
+    color: hwb(318 14% 25% / 0.726);
+   
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+    color: #333;
+   
+}
